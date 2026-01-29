@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/LaBeka/LaBecka/blob/main/httpsbegaiymkalilova.vercel.app%20(1).jpg?raw=true)
+![Profile Banner](https://github.com/LaBeka/LaBecka/blob/main/httpsbegaiymkalilova.vercel.app%20(1).jpg)
 
 Hi There! I am Becka 🤗
 
