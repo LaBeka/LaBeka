@@ -1,4 +1,4 @@
-![Full-Stack](https://github.com/LaBeka/LaBeka/blob/main/httpsbegaiymkalilova.vercel.app%20(1).jpg)
+![Full-Stack](https://github.com/LaBeka/LaBeka/blob/main/httpsbegaiymkalilova.vercel.app.jpg)
 
 ## Hi There! I am Becka 🤗
 
